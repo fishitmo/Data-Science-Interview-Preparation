@@ -1,0 +1,2 @@
+- can you give me a plain list of cost functions used in machine learning? I need only names
+
